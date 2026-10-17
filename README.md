@@ -1,8 +1,8 @@
 # Hi, I'm Mfumo Sono 👋
 
-## Cybersecurity Student | IT Support | Networking
+## 👾 Cybersecurity | IT Support | Networking 👾
 
-I'm a Cybersecurity student at CTU Training Solutions developing practical skills in IT support, networking, systems administration and cybersecurity.
+I'm a Cybersecurity student at CTU Training Solutions who is using projects as a means of developing practical skills in IT support, networking, systems administration and cybersecurity. Please have a look at the projects that I have posted on this Git repo.
 
 ## 🎓 Certifications & Learning
 
