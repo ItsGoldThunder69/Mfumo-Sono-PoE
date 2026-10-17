@@ -21,7 +21,7 @@ I'm a Cybersecurity student at CTU Training Solutions developing practical skill
 ## 🚀 Featured Projects
 
 - [Windows Server 2025 Active Directory Lab](https://github.com/ItsGoldThunder69/windows-server-2025-active-directory-lab)
-- [Network Engineering Labs](https://github.com/ItsGoldThunder69/network-engineering-labs)
+- [Networking Projects](https://github.com/ItsGoldThunder69/Mfumo-Sono-PoE/Networking-projects)
 - [Cybersecurity Homelab](https://github.com/ItsGoldThunder69/cybersecurity-homelab)
 
 ## 🎯 Current Goals
