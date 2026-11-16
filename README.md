@@ -6,8 +6,10 @@ I'm a Cybersecurity student at CTU Training Solutions who is using projects as a
 
 ## 🎓 Certifications & Learning
 
-- Microsoft SC-900 — Certified
-- CompTIA Security+ (SY0-701) — In Progress
+- CompTIA Security+ (SY0-701)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Security Operations Analyst Associate (SC-200) — In Progress
+- CompTIA PenTest+ (PT0-003) — In Progress
 - CompTIA Network+ (N10-009) — In Progress
 
 ## 🛠️ Technical Skills
@@ -27,7 +29,7 @@ I'm a Cybersecurity student at CTU Training Solutions who is using projects as a
 ## 🎯 Current Goals
 
 - Complete my practical cybersecurity projects
-- Prepare for CompTIA Security+
+- Prepare for the CompTIA PenTest+ and the Microsoft SC-200
 - Develop IT troubleshooting, security and networking skills
 - Secure an internship or entry-level role
 
