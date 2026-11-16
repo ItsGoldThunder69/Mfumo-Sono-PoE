@@ -6,8 +6,8 @@ I'm a Cybersecurity student at CTU Training Solutions who is using projects as a
 
 ## 🎓 Certifications & Learning
 
-- CompTIA Security+ (SY0-701)
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- CompTIA Security+ (SY0-701) — Completed
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) — Completed
 - Microsoft Certified: Security Operations Analyst Associate (SC-200) — In Progress
 - CompTIA PenTest+ (PT0-003) — In Progress
 - CompTIA Network+ (N10-009) — In Progress
