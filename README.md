@@ -1,13 +1,15 @@
 # Hi, I'm Mfumo Sono 👋
 
-## Cybersecurity Student | IT Support | Networking
+## 👾 Cybersecurity | IT Support | Networking 👾
 
-I'm a Cybersecurity student at CTU Training Solutions developing practical skills in IT support, networking, systems administration and cybersecurity.
+I'm a Cybersecurity student at CTU Training Solutions who is using projects as a means of developing practical skills in IT support, networking, systems administration and cybersecurity. Please have a look at the projects that I have posted on this Git repo.
 
 ## 🎓 Certifications & Learning
 
-- Microsoft SC-900 — Certified
-- CompTIA Security+ (SY0-701) — In Progress
+- CompTIA Security+ (SY0-701) — Completed
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) — Completed
+- Microsoft Certified: Security Operations Analyst Associate (SC-200) — In Progress
+- CompTIA PenTest+ (PT0-003) — In Progress
 - CompTIA Network+ (N10-009) — In Progress
 
 ## 🛠️ Technical Skills
@@ -27,7 +29,7 @@ I'm a Cybersecurity student at CTU Training Solutions developing practical skill
 ## 🎯 Current Goals
 
 - Complete my practical cybersecurity projects
-- Prepare for CompTIA Security+
+- Prepare for the CompTIA PenTest+ and the Microsoft SC-200
 - Develop IT troubleshooting, security and networking skills
 - Secure an internship or entry-level role
 
